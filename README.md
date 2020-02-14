@@ -9,7 +9,7 @@
 
 ### Гайд по компактам от анона
 
-<https://www.dropbox.com/s/399955isvwz082f/compact.pdf?dl=0>
+* <https://www.dropbox.com/s/399955isvwz082f/compact.pdf?dl=0>
 
 ### После нахождения в шкафу батиного "Зенита" или "ФЭДа" читаем FAQ для новичков-плёночников
 
@@ -20,7 +20,7 @@
 
 ### Устройство и ремонт фотоаппаратов
 
-<http://si.pp.ru/I_S_Mysenberg_Ustroistvo_i_remont_fotoapparatov.pdf>
+* <http://si.pp.ru/I_S_Mysenberg_Ustroistvo_i_remont_fotoapparatov.pdf>
 
 ### Немного об экспозиции
 
