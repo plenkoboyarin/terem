@@ -15,6 +15,7 @@ http://istoriya-foto.ru/books/item/f00/s00/z0000005/index.shtml
 
 Устройство и ремонт фотоаппаратов:
 http://si.pp.ru/I_S_Mysenberg_Ustroistvo_i_remont_fotoapparatov.pdf
+https://github.com/plenkoboyarin/terem/blob/master/Фотосервисы.md - Фотосервисы по городам (дополняем)
 
 Немного об экспозиции
 https://en.wikipedia.org/wiki/Sunny_16_rule
@@ -63,6 +64,8 @@ E-6:
 http://shop.sreda.photo/film-developing/
 ЧБ — фотолаба или дома по инструкции:
 http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyonki/
+Лабы и салоны по городам (дополняем):
+https://github.com/plenkoboyarin/terem/blob/master/Где%20проявить%20и%20отсканить.md
 
 Полезные ссылки (дополняем):
 http://www.digitaltruth.com/devchart.php?doc=timetemp — полезный калькулятор и база знаний по проявке
