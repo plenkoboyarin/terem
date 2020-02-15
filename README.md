@@ -57,6 +57,7 @@
     * <http://shop.sreda.photo/>
     * <http://foqusstore.com/>
     * <http://maxilabphoto.ru/>
+    * <https://www.dns-shop.ru/>
 * УКРАИНА
     * <https://fotofond.com.ua/index.php?route=product/category&path=798>
     * <https://fotomagazinpaparazzi.ua/store.php?s=19&g=264>
