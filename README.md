@@ -183,3 +183,4 @@
 * Тред #62 [>>652063](https://2ch.hk/p/res/652063.html)
 * Тред #63 [>>653648](https://2ch.hk/p/res/653648.html)
 * Тред #64 [>>655083](https://2ch.hk/p/res/655083.html)
+* Тред #65 [>>657202](https://2ch.hk/p/res/657202.html)
