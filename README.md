@@ -54,6 +54,9 @@
     * <http://ebay.com/>
     * <http://www.macodirect.de/>
     * <http://www.adorama.com/>
+    * <https://www.bhphotovideo.com/>
+    * <https://filmphotographystore.com/>
+    * <https://www.lomography.com/>
 * РОССИЯ
     * <http://www.ekta-f.ru/>
     * <http://d-76.ru/>
@@ -175,8 +178,8 @@
 * Тред #54 [>>622865](https://2ch.hk/p/res/622865.html) / <https://arhivach.ng/thread/468478/>
 * Тред #55 [>>627878](https://2ch.hk/p/res/627878.html) / <https://arhivach.ng/thread/480739/>
 * Тред #56 [>>633115](https://2ch.hk/p/res/633115.html) / <https://arhivach.ng/thread/495506/>
-* Тред #57 [>>638095](https://2ch.hk/p/res/638095.html)
-* Тред #58 [>>642160](https://2ch.hk/p/res/642160.html)
+* Тред #57 [>>638095](https://2ch.hk/p/res/638095.html) / <https://arhivach.ng/thread/531640/>
+* Тред #58 [>>642160](https://2ch.hk/p/res/642160.html) / <https://arhivach.ng/thread/547866/>
 * Тред #59 [>>644865](https://2ch.hk/p/res/644865.html)
 * Тред #60 [>>647753](https://2ch.hk/p/res/647753.html)
 * Тред #61 [>>650053](https://2ch.hk/p/res/650053.html)
@@ -184,3 +187,4 @@
 * Тред #63 [>>653648](https://2ch.hk/p/res/653648.html)
 * Тред #64 [>>655083](https://2ch.hk/p/res/655083.html)
 * Тред #65 [>>657202](https://2ch.hk/p/res/657202.html)
+* Тред #66 [>>660049](https://2ch.hk/p/res/660049.html)
