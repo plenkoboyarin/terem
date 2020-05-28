@@ -182,7 +182,7 @@
 * Тред #58 [>>642160](https://2ch.hk/p/res/642160.html) / <https://arhivach.ng/thread/547866/>
 * Тред #59 [>>644865](https://2ch.hk/p/res/644865.html) / <https://arhivach.ng/thread/513831/>
 * Тред #60 [>>647753](https://2ch.hk/p/res/647753.html) / <https://arhivach.ng/thread/565985/>
-* Тред #61 [>>650053](https://2ch.hk/p/res/650053.html)
+* Тред #61 [>>650053](https://2ch.hk/p/res/650053.html) / <https://arhivach.ng/thread/531638/>
 * Тред #62 [>>652063](https://2ch.hk/p/res/652063.html)
 * Тред #63 [>>653648](https://2ch.hk/p/res/653648.html)
 * Тред #64 [>>655083](https://2ch.hk/p/res/655083.html)
