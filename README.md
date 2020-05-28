@@ -177,7 +177,7 @@
 * Тред #53 <https://arhivach.ng/thread/460939/>
 * Тред #54 <https://arhivach.ng/thread/468478/>
 * Тред #55 <https://arhivach.ng/thread/480739/>
-* Тред #56 [>>633115](https://2ch.hk/p/res/633115.html) / <https://arhivach.ng/thread/495506/>
+* Тред #56 <https://arhivach.ng/thread/495506/>
 * Тред #57 [>>638095](https://2ch.hk/p/res/638095.html) / <https://arhivach.ng/thread/531640/>
 * Тред #58 [>>642160](https://2ch.hk/p/res/642160.html) / <https://arhivach.ng/thread/547866/>
 * Тред #59 [>>644865](https://2ch.hk/p/res/644865.html) / <https://arhivach.ng/thread/513831/>
@@ -189,3 +189,4 @@
 * Тред #65 [>>657202](https://2ch.hk/p/res/657202.html)
 * Тред #66 [>>660049](https://2ch.hk/p/res/660049.html)
 * Тред #67 [>>665412](https://2ch.hk/p/res/665412.html)
+* Тред #68 [>>667272](https://2ch.hk/p/res/667272.html)
