@@ -51,11 +51,11 @@
 ### Где брать пленку и принадлежности
 
 * МИР
+    * <https://filmphotographystore.com>
+    * <https://www.bhphotovideo.com>
     * <http://ebay.com/>
     * <http://www.macodirect.de/>
     * <http://www.adorama.com/>
-    * <https://www.bhphotovideo.com/>
-    * <https://filmphotographystore.com/>
     * <https://www.lomography.com/>
 * РОССИЯ
     * <http://www.ekta-f.ru/>
@@ -70,6 +70,7 @@
     * <https://fotoplenka.in.ua/>
     * <http://foto-syndicate.com/>
     * <https://photokavalab.com.ua/>
+    * <https://www.fotovramke.com>
 
 ### Информация по фотоаппаратам
 
@@ -88,7 +89,9 @@
     * ближайшая фотолаба
     * <http://istillshootfilm.org/post/522283334/how-to-develop-color-film-at-home-c-41>
 * E-6
-    * <http://shop.sreda.photo/film-developing/>
+    * <http://www.photopro.ru/> - топ
+    * <https://www.fotolab.ru/>
+    * <http://shop.sreda.photo/film-developing/> - есть случаи порчи слайдов, но с компенсацией стоимости пленки и проявки
 * ЧБ
     * фотолаба
     * дома по инструкции: <http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyonki/>
@@ -106,6 +109,8 @@
 * <https://vk.com/doc221577242_226895698> — Ansel Adams The Negative (англ)
 * <https://vk.com/doc221577242_226895704> — Ansel Adams The Print (англ)
 * <https://pavel-kosenko.livejournal.com/792703.html> — все три книги Анселя Адамса (перевод)
+* <https://pavel-kosenko.livejournal.com/681353.html> — Как я обрабатываю сканы с цветной пленки
+* <https://blog.sreda.photo/2017/02/15/postprocess/> — Как обрабатывать пленочные фотографии?
 
 ### Youtube-каналы
 
@@ -190,3 +195,4 @@
 * Тред #66 [>>660049](https://2ch.hk/p/res/660049.html)
 * Тред #67 [>>665412](https://2ch.hk/p/res/665412.html)
 * Тред #68 [>>667272](https://2ch.hk/p/res/667272.html)
+* Тред #69 [>>670398](https://2ch.hk/p/res/670398.html)
