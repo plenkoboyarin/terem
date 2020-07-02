@@ -1,7 +1,6 @@
-Шестьдесят девятый этаж терема пленкобояр!
+Семидесятый этаж терема плёнкобояр!
 
-Гайды по выбору пленок:
-https://www.youtube.com/watch?v=pitm2n2CWIY
+Сайт в помощь по выбору пленок:
 https://filmtypes.com/
 
 Гайд по компактам от анона:
@@ -11,35 +10,28 @@ https://docs.google.com/document/d/1t52y90g1Li3QSRodMvXftNJEaUv4bp5EJA6W78bGimA/
 Нашёл в шкафу дедовский "Зенит" или "ФЭД"? Можешь проследовать в FAQ для новичков-плёночников:
 http://club.foto.ru/forum/21/578675
 http://istoriya-foto.ru/books/item/f00/s00/z0000005/index.shtml
-Но, так как он 30 лет простоял на полке, то с вероятностью 90% в нем что-то не работает, хотя бы потому что масло за 30 лет превратилось в грязь.
-Поэтому анон рекомендует поставить его обратно в шкаф и не трогать.
-Потому что:
-1) Ты не знаешь где его починить.
-2) Даже если знаешь где есть ремонт фотоаппаратов, ты не знаешь нормально ли там чинят.
-3) Цена его ремонта сопоставима с его ценой на рынке. Ты точно хочешь его починить? На Авито есть уже обслуженные, рабочие Зениты и ФЭДы за те же деньги.
+[b]tl;dr[/b]: так как он 30 лет простоял на полке, то с вероятностью 70% в нем что-то не работает, хотя бы потому что масло за 30 лет превратилось в грязь. Отнеси его на профилактику, не насилуй старика!
+На Авито возможно есть уже обслуженные, рабочие фотоаппараты по цене, сопоставимой со стоимостью ремонта в твоём городе.
 
 Устройство и ремонт фотоаппаратов:
 http://si.pp.ru/I_S_Mysenberg_Ustroistvo_i_remont_fotoapparatov.pdf
-https://github.com/plenkoboyarin/terem/blob/master/Фотосервисы.md - Фотосервисы по городам (дополняем)
 
-Немного об экспозиции
-https://en.wikipedia.org/wiki/Sunny_16_rule
-https://en.wikipedia.org/wiki/Zone_System
+[b]Фотосервисы по городам (дополняйте!):[/b]
+https://github.com/plenkoboyarin/terem/blob/master/Фотосервисы.md
+
 Вырезаем шпаргалку-экспонометр из бумаги:
 http://www.lomography.com/magazine/tipster/2011/11/02/diy-light-meter
 http://www.squit.co.uk/photo/files/ExposureCalculator.pdf
 http://www.squit.co.uk/photo/files/ExposureCalculatorMini.pdf
 Также можно поставить на смартфон приложение типа LightMeter, помогающее разобраться с экспозицией.
 
-Где брать пленку и принадлежности?
+[b]Где брать пленку и принадлежности[/b]
 
 МИР
 https://filmphotographystore.com
 https://www.bhphotovideo.com
-http://ebay.com/
 http://www.macodirect.de/
 http://www.adorama.com/
-https://www.lomography.com/
 
 РОССИЯ
 http://www.ekta-f.ru/
@@ -58,36 +50,29 @@ https://photokavalab.com.ua/
 https://www.fotovramke.com
 
 Информация по фотоаппаратам:
-http://camerapedia.wikia.com/
-http://camera-wiki.org/
 http://rangefinder.ru/ — Обзоры дальномерок и не только
 http://www.photohistory.ru/ — Советские фотоаппараты
-http://sovietcams.com/ — Советские фотоаппараты
 http://kenrockwell.com/tech/reviews.htm — Его Никонейшество Кен Роквелл!
 https://www.cameraquest.com/classics.htm — Обзоры заграничных камер
 http://www.certo6.com — Обзоры сф гармошек
 
-Проявка
-С41 — ближайшая фотолаба или
-http://istillshootfilm.org/post/522283334/how-to-develop-color-film-at-home-c-41
-E-6:
-http://www.photopro.ru/ - топ
-https://www.fotolab.ru/
-http://shop.sreda.photo/film-developing/ - есть случаи порчи слайдов, но с компенсацией стоимости пленки и проявки
-ЧБ — фотолаба или дома по инструкции:
-http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyonki/
-Лабы и салоны по городам (дополняем):
+[b]Проявка[/b]
+
+[b]Лабы и салоны по городам (дополняем):[/b]
 https://github.com/plenkoboyarin/terem/blob/master/Где%20проявить%20и%20отсканить.md
+
+С41 — ближайшая фотолаба или по инструкции:
+http://istillshootfilm.org/post/522283334/how-to-develop-color-film-at-home-c-41
+
+E-6 — проф. лаба или по инструкции:
+https://1greywind.livejournal.com/458524.html
+
+ЧБ — проф. лаба или дома по инструкции:
+http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyonki/
 
 Полезные ссылки (дополняем):
 http://www.digitaltruth.com/devchart.php?doc=timetemp — полезный калькулятор и база знаний по проявке
-http://istillshootfilm.org/ — Обзоры, фотки, мануалы
-https://www.flickr.com/groups/ishootfilm/
-http://rutracker.org/forum/viewtopic.php?t=5084329 — Алексей Шадрин. Пленочная фотография: за и против.
 http://www.photoline.ru/books/diko-osnovikompozicii.pdf — Л. П. Дыко. Основы композиции в фотографии. — настольная книга любого фотографа.
-https://vk.com/doc221577242_226895692 — Ansel Adams The Camera (англ)
-https://vk.com/doc221577242_226895698 — Ansel Adams The Negative (англ)
-https://vk.com/doc221577242_226895704 — Ansel Adams The Print (англ)
 https://pavel-kosenko.livejournal.com/792703.html — все три книги Анселя Адамса (перевод)
 https://pavel-kosenko.livejournal.com/681353.html — Как я обрабатываю сканы с цветной пленки
 https://blog.sreda.photo/2017/02/15/postprocess/ — Как обрабатывать пленочные фотографии?
@@ -102,75 +87,15 @@ https://www.youtube.com/channel/UC7FAbyJQdQTudmCJanZFRBg - дед-пейзажн
 https://www.youtube.com/user/ProfetaParanoia - Эдуардо Павез, дерзкий стритер, пленочник
 https://www.youtube.com/channel/UCrZlzcRfCKLngZnqNTmTQjw — Дэвид Ханкок, обзоры пленок и техники
 https://www.youtube.com/user/mattdayphotofilmshow — Мэтт Дэй, упор на средний формат
-https://www.youtube.com/channel/UCJQcBYfgescGRJUzU6IMCMw — Кайл МакДоугалл, экстремальные тесты пленки и не очень экстремальные обзоры техники
 
 Архив:
-Тред #1 http://arhivach.ng/thread/39799/
-Тред #2 http://arhivach.ng/thread/44499/
-Тред #3 http://arhivach.ng/thread/58188/
-Тред #4 http://arhivach.ng/thread/69985/
-Тред #5 http://arhivach.ng/thread/73510/
-Тред #6 http://arhivach.ng/thread/83856/
-Тред #7 http://arhivach.ng/thread/98381/
-Тред #8 http://arhivach.ng/thread/102985/
-Тред #9 http://arhivach.ng/thread/115937/
-Тред #10 http://arhivach.ng/thread/122337/
-Тред #11 http://arhivach.ng/thread/125057/
-Тред #12 http://arhivach.ng/thread/139078/
-Тред #13 http://arhivach.ng/thread/150550/
-Тред #14 http://arhivach.ng/thread/156514/
-Тред #15 http://arhivach.ng/thread/165777/
-Тред #16 http://arhivach.ng/thread/171187/
-Тред #17 http://arhivach.ng/thread/176445/
-Тред #18 http://arhivach.ng/thread/179760/
-Тред #19 https://arhivach.ng/thread/182273/
-Тред #20 https://arhivach.ng/thread/189281/
-Тред #21 https://arhivach.ng/thread/195243/
-Тред #22 https://arhivach.ng/thread/210997/
-Тред #23 https://arhivach.ng/thread/218192/
-Тред #24 https://arhivach.ng/thread/228847/
-Тред #25 https://arhivach.ng/thread/231979/
-Тред #26 https://arhivach.ng/thread/236411/
-Тред #27 https://arhivach.ng/thread/245630/
-Тред #28 https://arhivach.ng/thread/252736/
-Тред #29 https://arhivach.ng/thread/257285/
-Тред #30 https://arhivach.ng/thread/269392/
-Тред #31 https://arhivach.ng/thread/276953/
-Тред #32 https://arhivach.ng/thread/282229/
-Тред #33 https://arhivach.ng/thread/289401/
-Тред #34 https://arhivach.ng/thread/294887/
-Тред #35 https://arhivach.ng/thread/301079/
-Тред #36 https://arhivach.ng/thread/301106/
-Тред #37 https://arhivach.ng/thread/316448/
-Тред #38 https://arhivach.ng/thread/331257/
-Тред #39 https://arhivach.ng/thread/337887/
-Тред #40 https://arhivach.ng/thread/348207/
-Тред #41 https://arhivach.ng/thread/348212/
-Тред #42 https://arhivach.ng/thread/364220/
-Тред #43 https://arhivach.ng/thread/372132/
-Тред #44 https://arhivach.ng/thread/380949/
-Тред #45 https://arhivach.ng/thread/389625/
-Тред #46 https://arhivach.ng/thread/411166/
-Тред #47 https://arhivach.ng/thread/411170/
-Тред #48 https://arhivach.ng/thread/435761/
-Тред #49 https://arhivach.ng/thread/435762/
-Тред #50 https://arhivach.ng/thread/435763/
-Тред #51 https://arhivach.ng/thread/440596/
-Тред #52 https://arhivach.ng/thread/448293/
-Тред #53 https://arhivach.ng/thread/460939/
-Тред #54 https://arhivach.ng/thread/468478/
-Тред #55 https://arhivach.ng/thread/480739/
-Тред #56 https://arhivach.ng/thread/495506/
-Тред #57 >>638095 / https://arhivach.ng/thread/531640/
-Тред #58 >>642160 / https://arhivach.ng/thread/547866/
-Тред #59 >>644865 / https://arhivach.ng/thread/513831/
-Тред #60 >>647753 / https://arhivach.ng/thread/565985/
-Тред #61 >>650053 / https://arhivach.ng/thread/531638/
-Тред #62 >>652063
-Тред #63 >>653648
-Тред #64 >>655083
-Тред #65 >>657202
-Тред #66 >>660049
-Тред #67 >>665412
-Тред #68 >>667272
-Тред #69 >>670398
+
+Тред #62 >>652063 / https://arhivach.ng/thread/531639/
+Тред #63 >>653648 / https://arhivach.ng/thread/589907/
+Тред #64 >>655083 / https://arhivach.ng/thread/589908/
+Тред #65 >>657202 / https://arhivach.ng/thread/553127/
+Тред #66 >>660049 / https://arhivach.ng/thread/589910/
+Тред #67 >>665412 / https://arhivach.ng/thread/589912/
+Тред #68 >>667272 / https://arhivach.ng/thread/589913/
+Тред #69 >>670398 / https://arhivach.ng/thread/589920/
+Тред #70 >>673176
