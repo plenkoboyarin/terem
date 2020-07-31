@@ -2,7 +2,7 @@
 
 > Чтобы скопировать шапку, открой файл [Шапка.txt](Шапка.txt)
 
-**Семидесятый этаж терема плёнкобояр!**
+**Семьдесят первый этаж терема плёнкобояр!**
 
 ### Сайт в помощь по выбору пленок
 
@@ -34,7 +34,7 @@
 * <http://www.lomography.com/magazine/tipster/2011/11/02/diy-light-meter>
 * <http://www.squit.co.uk/photo/files/ExposureCalculator.pdf>
 * <http://www.squit.co.uk/photo/files/ExposureCalculatorMini.pdf>
-* Также можно поставить на смартфон приложение типа LightMeter, помогающее разобраться с экспозицией
+* Также можно поставить на смартфон приложение типа LightMeter, помогающее разобраться с экспозицией. Оптимальным будет, сверяясь с внешним экспонометром, или хотя бы TTL-замером, выбрать из 10 приложений одно-два наиболее точных.
 
 ### Где брать пленку и принадлежности
 
@@ -103,12 +103,13 @@
 
 ### Архив
 
-* Тред #62 [>>652063](https://2ch.hk/p/res/652063.html) / <https://arhivach.ng/thread/531639/>
-* Тред #63 [>>653648](https://2ch.hk/p/res/653648.html) / <https://arhivach.ng/thread/589907/>
-* Тред #64 [>>655083](https://2ch.hk/p/res/655083.html) / <https://arhivach.ng/thread/589908/>
-* Тред #65 [>>657202](https://2ch.hk/p/res/657202.html) / <https://arhivach.ng/thread/553127/>
-* Тред #66 [>>660049](https://2ch.hk/p/res/660049.html) / <https://arhivach.ng/thread/589910/>
-* Тред #67 [>>665412](https://2ch.hk/p/res/665412.html) / <https://arhivach.ng/thread/589912/>
-* Тред #68 [>>667272](https://2ch.hk/p/res/667272.html) / <https://arhivach.ng/thread/589913/>
-* Тред #69 [>>670398](https://2ch.hk/p/res/670398.html) / <https://arhivach.ng/thread/589920/>
+* Тред #62 <https://arhivach.ng/thread/531639/>
+* Тред #63 <https://arhivach.ng/thread/589907/>
+* Тред #64 <https://arhivach.ng/thread/589908/>
+* Тред #65 <https://arhivach.ng/thread/553127/>
+* Тред #66 <https://arhivach.ng/thread/589910/>
+* Тред #67 <https://arhivach.ng/thread/589912/>
+* Тред #68 <https://arhivach.ng/thread/589913/>
+* Тред #69 <https://arhivach.ng/thread/589920/>
 * Тред #70 [>>673176](https://2ch.hk/p/res/673176.html)
+* Тред #71 [>>676833](https://2ch.hk/p/res/676833.html)
