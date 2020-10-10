@@ -1,4 +1,4 @@
-Семьдесят третий этаж терема плёнкобояр!
+Семьдесят четвёртый этаж терема плёнкобояр!
 
 Сайт в помощь по выбору пленок:
 https://filmtypes.com/
@@ -16,7 +16,7 @@ http://istoriya-foto.ru/books/item/f00/s00/z0000005/index.shtml
 Устройство и ремонт фотоаппаратов:
 http://si.pp.ru/I_S_Mysenberg_Ustroistvo_i_remont_fotoapparatov.pdf
 
-[b]Фотосервисы по городам (дополняйте!):[/b]
+Фотосервисы по городам (дополняйте!)
 https://github.com/plenkoboyarin/terem/blob/master/Фотосервисы.md
 
 Вырезаем шпаргалку-экспонометр из бумаги:
@@ -25,7 +25,7 @@ http://www.squit.co.uk/photo/files/ExposureCalculator.pdf
 http://www.squit.co.uk/photo/files/ExposureCalculatorMini.pdf
 Также можно поставить на смартфон приложение типа LightMeter, помогающее разобраться с экспозицией. Оптимальным будет, сверяясь с внешним экспонометром, или хотя бы TTL-замером, выбрать из 10 приложений одно-два наиболее точных.
 
-[b]Где брать пленку и принадлежности[/b]
+Где брать пленку и принадлежности
 
 МИР
 https://filmphotographystore.com
@@ -56,9 +56,9 @@ http://kenrockwell.com/tech/reviews.htm — Его Никонейшество К
 https://www.cameraquest.com/classics.htm — Обзоры заграничных камер
 http://www.certo6.com — Обзоры сф гармошек
 
-[b]Проявка[/b]
+Проявка
 
-[b]Лабы и салоны по городам (дополняем):[/b]
+Лабы и салоны по городам (дополняем):
 https://github.com/plenkoboyarin/terem/blob/master/Где%20проявить%20и%20отсканить.md
 
 С41 — ближайшая фотолаба или по инструкции:
@@ -102,3 +102,4 @@ https://www.youtube.com/user/mattdayphotofilmshow — Мэтт Дэй, упор 
 Тред #71 >>676833
 Тред #72 >>679251
 Тред #73 >>682350
+Тред #74 >>685698
