@@ -14,7 +14,7 @@
 
 ### Устройство и ремонт фотоаппаратов:
 
-* <http://si.pp.ru/I_S_Mysenberg_Ustroistvo_i_remont_fotoapparatov.pdf>
+* <https://pastebin.com/5nNBnWEV>
 
 ### Фотосервисы по городам (дополняйте!)
 
