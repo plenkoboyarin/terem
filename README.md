@@ -42,6 +42,9 @@
     * <https://photokavalab.com.ua/>
     * <https://www.fotovramke.com>
 
+* БЕЛАРУСЬ
+    * <https://taplink.cc/silverdotlab>
+
 ### Информация по фотоаппаратам
 
 * <http://rangefinder.ru/> — Древний форум со знающими дедами
@@ -88,17 +91,26 @@
 
 ### Архив
 
-* Тред #66 <https://arhivach.ng/thread/589910/>
-* Тред #67 <https://arhivach.ng/thread/589912/>
-* Тред #68 <https://arhivach.ng/thread/589913/>
-* Тред #69 <https://arhivach.ng/thread/589920/>
-* Тред #70 <https://arhivach.net/thread/627177/>
-* Тред #71 <https://arhivach.net/thread/627178/>
-* Тред #72 <https://arhivach.net/thread/651773/>
-* Тред #73 <https://arhivach.net/thread/651774/>
-* Тред #74 [>>685698](https://2ch.hk/p/res/685698.html)
-* Тред #75 [>>689466](https://2ch.hk/p/res/689466.html)
-* Тред #76 [>>692126](https://2ch.hk/p/res/692126.html)
-* Тред #77 [>>694845](https://2ch.hk/p/res/694845.html)
-* Тред #78 [>>698572](https://2ch.hk/p/res/698572.html)
-* Тред #79 [>>701764](https://2ch.hk/p/res/701764.html)
+* Тред #80 https://2ch.hk/p/res/706027.html
+* Тред #81 https://2ch.hk/p/res/708925.html
+* Тред #82 https://2ch.hk/p/res/713542.html | https://arhivach.ng/thread/685515/
+* Тред #83 https://2ch.hk/p/res/722148.html | https://arhivach.ng/thread/737107/
+* Тред #84 https://2ch.hk/p/res/727339.html | https://arhivach.ng/thread/701313/
+* Тред #85 https://2ch.hk/p/res/733569.html | https://arhivach.ng/thread/737108/
+* Тред #86 https://2ch.hk/p/res/737648.html | https://arhivach.ng/thread/737109/
+* Тред #87 https://2ch.hk/p/res/745187.html | https://arhivach.ng/thread/737110/
+* Тред #88 https://2ch.hk/p/res/752140.html | https://arhivach.ng/thread/737111/
+* Тред #89 https://2ch.hk/p/res/755586.html | https://arhivach.ng/thread/745964/
+* Тред #90 https://2ch.hk/p/res/757573.html | https://arhivach.ng/thread/745963/
+* Тред #91 https://2ch.hk/p/res/760776.html | https://arhivach.ng/thread/751377/
+* Тред #92 https://2ch.hk/p/res/763977.html | https://arhivach.ng/thread/755566/
+* Тред #93 https://2ch.hk/p/res/766070.html | https://arhivach.ng/thread/763383/
+* Тред #94 https://2ch.hk/p/res/770338.html | https://arhivach.ng/thread/791720/
+* Тред #95 https://2ch.hk/p/res/775301.html | https://arhivach.ng/thread/791721/
+* Тред #96 https://2ch.hk/p/res/778815.html | https://arhivach.ng/thread/796222/
+* Тред #97 https://2ch.hk/p/res/781695.html | https://arhivach.ng/thread/796792/
+* Тред #98 https://2ch.hk/p/res/783112.html | https://arhivach.ng/thread/801394/
+* Тред #99 https://2ch.hk/p/res/785148.html | https://arhivach.ng/thread/804149/
+* Тред #100 https://2ch.hk/p/res/786842.html | https://arhivach.ng/thread/808048/
+* Тред #101 https://2ch.hk/p/res/789025.html | https://arhivach.ng/thread/814783/
+* Тред #102 https://2ch.hk/p/res/792038.html | https://arhivach.ng/thread/820869/
