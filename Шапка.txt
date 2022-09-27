@@ -9,7 +9,7 @@ http://istoriya-foto.ru/books/item/f00/s00/z0000005/index.shtml
 https://pastebin.com/5nNBnWEV
 
 [B]Фотосервисы по городам (дополняйте!):[/B]
-https://github.com/plenkoboyarin/terem/blob/master/Фотосервисы.md
+https://github.com/zoixc/terem/blob/master/Фотосервисы.md
 
 [B][U]Куда выкладывать фотографии[/U][/B]
 https://www.reddit.com/r/analog/ - крупный саббредит на тему, много критики и дорогой техники.
@@ -60,7 +60,7 @@ http://www.certo6.com — Обзоры сф гармошек
 
 [B][U]Проявка:[/U][/B]
 [B]Лабы и салоны по городам (дополняем):[/B]
-https://github.com/plenkoboyarin/terem/blob/master/Где%20проявить%20и%20отсканить.md
+https://github.com/zoixc/terem/blob/master/Где%20проявить%20и%20отсканить.md
 
 Лабы в Беларуси
 http://photosquat.by/
