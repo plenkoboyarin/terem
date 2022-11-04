@@ -53,6 +53,9 @@ https://www.fotovramke.com
 [B]БЕЛАРУСЬ[/B]
 https://taplink.cc/silverdotlab
 
+[B][U]Полезные приложения для смартфона:[/U][/B]
+https://github.com/zoixc/terem/blob/master/Приложения.md
+
 [B][U]Информация по фотоаппаратам:[/U][/B]
 http://rangefinder.ru/ — Древний форум со знающими дедами
 http://www.photohistory.ru/ — Советские фотоаппараты
