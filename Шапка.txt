@@ -52,6 +52,7 @@ https://www.fotovramke.com
 
 [B]БЕЛАРУСЬ[/B]
 https://taplink.cc/silverdotlab
+http://photosquat.by
 
 [B][U]Полезные приложения для смартфона:[/U][/B]
 https://github.com/zoixc/terem/blob/master/Приложения.md
@@ -66,10 +67,6 @@ http://www.certo6.com — Обзоры сф гармошек
 [B][U]Проявка:[/U][/B]
 [B]Лабы и салоны по городам (дополняем):[/B]
 https://github.com/zoixc/terem/blob/master/Где%20проявить%20и%20отсканить.md
-
-Лабы в Беларуси
-http://photosquat.by/
-https://taplink.cc/silverdotlab
 
 [B]С41 — ближайшая фотолаба или по инструкции:[/B]
 https://www.lomography.com/magazine/212875-tsvet-doma
