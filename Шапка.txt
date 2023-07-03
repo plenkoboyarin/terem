@@ -6,18 +6,16 @@ http://istoriya-foto.ru/books/item/f00/s00/z0000005/index.shtml
 На Авито возможно есть уже обслуженные, рабочие фотоаппараты по цене, сопоставимой со стоимостью ремонта в твоём городе.
 
 [B]Устройство и ремонт фотоаппаратов (книги и ссылки):[/B]
-https://pastebin.com/5nNBnWEV
+https://github.com/zoixc/terem/blob/master/Книги.md
 
 [B]Фотосервисы по городам (дополняйте!):[/B]
 https://github.com/zoixc/terem/blob/master/Фотосервисы.md
 
 [B][U]Куда выложить фото/где вдохновиться[/U][/B]
-https://www.reddit.com/r/analog/ - Крупный саббредит на тему, много критики и дорогой техники.
-https://www.lomography.com/photos/ - Когда-то популярная, сейчас чуть меньше, платформа для пленочных фото и блогов.
-https://www.flickr.com/ - Еще не умер, есть ограничения для бесплатных аккаунтов.
-https://www.vk.com/ - Десятки пабликов на любой вкус, часть из которых есть также и в телеграмме.
-https://www.instagram.com/ - Для социально активных. [SUB]Meta, владеющая Instagram, признана экстремистской в России.[/SUB]
-https://grainery.app/ - Аналог инсты для пленки онли, лимит [S]36[/S] 24 фото для бесплатных аккаунтов. На данный момент скорее мертв, чем жив.
+https://www.lomography.com/photos/ | https://www.flickr.com/
+https://www.reddit.com/r/analog/ | https://www.vk.com/
+https://www.instagram.com/ * | https://grainery.app/
+[SUB]* Meta, владеющая Instagram, признана экстремистской в России.[/SUB]
 В треде.
 
 [B][U]Где брать фотоплёнку и принадлежности[/U][/B]
@@ -33,29 +31,21 @@ http://www.adorama.com/
 https://www.aliexpress.com/
 
 [B]РОССИЯ[/B]
-http://www.ekta-f.ru/
-http://d-76.ru/
-http://shop.sreda.photo/
-http://foqusstore.com/
-http://maxilabphoto.ru/
-https://www.dns-shop.ru/
-http://wonderfoto.ru/
-https://pola-store.ru/
-https://tochkacveta.ru/
-https://росскан.рф/
+http://www.ekta-f.ru/ | http://d-76.ru/
+http://shop.sreda.photo/ | http://foqusstore.com/
+http://maxilabphoto.ru/ | https://www.dns-shop.ru/
+http://wonderfoto.ru/ | https://pola-store.ru/
+https://tochkacveta.ru/ | https://росскан.рф/
 
 [B]УКРАИНА[/B]
 https://filmservice.prom.ua/ua/product_list - Недорогая плёнка, химия для проявки, печати, услуги проявки, сканирования
 https://fotofond.com.ua/index.php?route=product/category&path=798
 https://fotomagazinpaparazzi.ua/store.php?s=19&g=264
-https://fotoplenka.in.ua/
-http://foto-syndicate.com/
-https://photokavalab.com.ua/
-https://www.fotovramke.com
+https://fotoplenka.in.ua/ | http://foto-syndicate.com/
+https://photokavalab.com.ua/ | https://www.fotovramke.com
 
 [B]БЕЛАРУСЬ[/B]
-https://taplink.cc/silverdotlab
-http://photosquat.by
+https://taplink.cc/silverdotlab | http://photosquat.by
 
 [B][U]Полезные приложения для смартфона:[/U][/B]
 https://github.com/zoixc/terem/blob/master/Приложения.md
@@ -84,10 +74,7 @@ http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyo
 [B][U]Полезные ссылки (дополняем):[/U][/B]
 https://docs.google.com/document/d/1t52y90g1Li3QSRodMvXftNJEaUv4bp5EJA6W78bGimA/edit — Слегка протухший список пленочных мыльниц, можно дополнить
 http://www.digitaltruth.com/devchart.php?doc=timetemp — Полезный калькулятор и база знаний по проявке
-http://rangefinder.ru/manual/books/Mikulin_25_urokov_fotografii_11izd.djvu — Микулин, "25 уроков фотографии"- база для ньюфагов, вкатывающихся в чб фотографию. От устройства фотоаппарата и основ композиции до оптической печати. Устаревшая, неудобная, зато на русском.
-https://drive.google.com/file/d/16xRihZT3LY-yIS-B3RQGvWX2N-UhTcs8/view?usp=sharing - "Black & white photography. A basic manual" by Henry Horenstein. Базовая книга о черно-белой фотографии. От азов обращения с камерой, до продвинутых техник оптической печати.
-http://www.photoline.ru/books/diko-osnovikompozicii.pdf — Л. П. Дыко. Основы композиции в фотографии. — Настольная книга любого фотографа.
-https://yarman-yan.livejournal.com/22660.html — Все три книги Анселя Адамса (перевод)
+https://github.com/zoixc/terem/blob/master/Книги.md — Микулин, Л. П. Дыко, Генри Горенштейн, Ансель Адамс и другие essentials книги
 https://pavel-kosenko.livejournal.com/681353.html — Как я обрабатываю сканы с цветной пленки
 https://blog.sreda.photo/2017/02/15/postprocess/ — Как обрабатывать пленочные фотографии?
 https://endingmirage.com/ — Блог пленочного фотографа и лектора из Казани
@@ -106,16 +93,6 @@ https://www.youtube.com/user/mattdayphotofilmshow — Мэтт Дэй, упор 
 https://www.youtube.com/c/TheNakedPhotographer/videos — Голый фотограф, тесты плёнок, работа в тёмной комнате
 
 [B][U]Архив[/U][/B]
-Тред #95 https://2ch.hk/p/res/775301.html | https://arhivach.top/thread/791721/
-Тред #96 https://2ch.hk/p/res/778815.html | https://arhivach.top/thread/796222/
-Тред #97 https://2ch.hk/p/res/781695.html | https://arhivach.top/thread/796792/
-Тред #98 https://2ch.hk/p/res/783112.html | https://arhivach.top/thread/801394/
-Тред #99 https://2ch.hk/p/res/785148.html | https://arhivach.top/thread/804149/
-Тред #100 https://2ch.hk/p/res/786842.html | https://arhivach.top/thread/808048/
-Тред #101 https://2ch.hk/p/res/789025.html | https://arhivach.top/thread/814783/
-Тред #102 https://2ch.hk/p/res/792038.html | https://arhivach.top/thread/820869/
-Тред #103 https://2ch.hk/p/res/794300.html | https://arhivach.top/thread/826057/
-Тред #104 https://2ch.hk/p/res/796275.html | https://arhivach.top/thread/827749/
 Тред #105 https://2ch.hk/p/res/798437.html | https://arhivach.top/thread/844918/
 Тред #106 https://2ch.hk/p/res/802062.html | https://arhivach.top/thread/853838/
 Тред #107 https://2ch.hk/p/res/804782.html | https://arhivach.top/thread/859475/
