@@ -17,6 +17,7 @@
   * [/ph_analog](https://vk.com/ph_analog)
 * #### Telegram
   В основном дубли из ВК, но есть и самостоятельные каналы с обусждениями. Минус - их нужно хороши найти в поиске. Плюс - много самостоятельных авторов со своими каналами, все в том же поиске.
+  * [@filmpunk](https://t.me/filmpunk)
   * [@plenka](https://t.me/plenka)
   * [@plenkateam](https://t.me/plenkateam)
   * [@sredafilmlab](https://t.me/sredafilmlab)
