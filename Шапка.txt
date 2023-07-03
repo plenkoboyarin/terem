@@ -1,4 +1,4 @@
-[B]Нашёл в шкафу Leica рядом с дедовой формой [S]полицая[/S] электрика? Можешь проследовать в FAQ для новичков-плёночников:[/B]
+[B]Нашёл в шкафу [S]Leica[/S] Зенит или ФЭД рядом с дедовой формой электрика? Можешь проследовать в FAQ для новичков-плёночников:[/B]
 http://club.foto.ru/forum/21/578675
 http://istoriya-foto.ru/books/item/f00/s00/z0000005/index.shtml
 
@@ -22,13 +22,10 @@ https://www.instagram.com/ * | https://grainery.app/
 https://www.filmtypes.com/films - Перечень современных пленок с описанием и примерами
 
 [B]МИР[/B]
-https://filmphotographystore.com
-https://www.bhphotovideo.com
-https://www.fotoimpex.com/
-http://www.macodirect.de/
-https://buymorefilm.com/
-http://www.adorama.com/
-https://www.aliexpress.com/
+https://filmphotographystore.com | https://www.bhphotovideo.com
+https://www.fotoimpex.com/ | http://www.macodirect.de/
+https://buymorefilm.com/ | http://www.adorama.com/
+https://www.aliexpress.com/ | https://www.ebay.com/
 
 [B]РОССИЯ[/B]
 http://www.ekta-f.ru/ | http://d-76.ru/
@@ -46,9 +43,6 @@ https://photokavalab.com.ua/ | https://www.fotovramke.com
 
 [B]БЕЛАРУСЬ[/B]
 https://taplink.cc/silverdotlab | http://photosquat.by
-
-[B][U]Полезные приложения для смартфона:[/U][/B]
-https://github.com/zoixc/terem/blob/master/Приложения.md
 
 [B][U]Информация по фотоаппаратам:[/U][/B]
 http://rangefinder.ru/ — Древний форум со знающими дедами
@@ -70,6 +64,9 @@ https://1greywind.livejournal.com/458524.html
 
 [B]ЧБ — дома по инструкции или проф.лаба:[/B]
 http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyonki/
+
+[B][U]Полезные приложения для смартфона:[/U][/B]
+https://github.com/zoixc/terem/blob/master/Приложения.md
 
 [B][U]Полезные ссылки (дополняем):[/U][/B]
 https://docs.google.com/document/d/1t52y90g1Li3QSRodMvXftNJEaUv4bp5EJA6W78bGimA/edit — Слегка протухший список пленочных мыльниц, можно дополнить
