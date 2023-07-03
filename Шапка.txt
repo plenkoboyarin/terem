@@ -12,7 +12,7 @@ https://github.com/zoixc/terem/blob/master/Книги.md
 https://github.com/zoixc/terem/blob/master/Фотосервисы.md
 
 [B][U]Куда выложить фото/где вдохновиться[/U][/B]
-Список пабликов и ресурсов — https://github.com/zoixc/terem/blob/master/resources.md
+Список пабликов и ресурсов — https://github.com/zoixc/terem/blob/master/Ресурсы.md
 https://www.lomography.com/photos/ | https://www.flickr.com/
 https://www.reddit.com/r/analog/ | https://www.vk.com/
 https://www.instagram.com/ * | https://grainery.app/
