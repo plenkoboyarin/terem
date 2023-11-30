@@ -112,8 +112,8 @@
 * [Большой формат](https://t.me/large_format_ru) *со своей галереей и барахолкой*
 * [Про печать и химию](https://t.me/AF_Chemicals)
 ***
-	#### [Архив (с треда #1 по текущий)](https://rentry.co/plenka_archive)
-[Архив на Github](https://github.com/zoixc/terem/blob/master/Архив.md)
+[Архив (с треда #1 по текущий)](https://github.com/zoixc/terem/blob/master/Архив.md)
+[Архив на Rentry](https://rentry.co/plenka_archive)
 ***
 #### Нужны исправления?
 	Вносите правки в соответствующий файл, будет опубликовано
