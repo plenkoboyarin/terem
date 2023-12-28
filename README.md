@@ -84,6 +84,7 @@
 ***
 ### Полезные ссылки
 Дополняйте, пожалуйста
+* [Большая база данных старых и новых пленок (только актуальность на рынке, без деталей)](<https://industrieplus.net/dxdatabase/>)
 * [Полезный калькулятор и база знаний по проявке](<http://www.digitaltruth.com/devchart.php?doc=timetemp>)
 * [Микулин, Л. П. Дыко, Генри Горенштейн, Ансель Адамс и другие essentials книги](https://github.com/zoixc/terem/blob/master/Res/Книги.md)
 * [Полезные приложения для смартфона](https://github.com/zoixc/terem/blob/master/Res/Приложения.md)
