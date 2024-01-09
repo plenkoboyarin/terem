@@ -11,13 +11,13 @@
 
 ***
 ### Проявка и сервисы
-* **[Где проявить и отсканить (по городам)](https://github.com/zoixc/terem/blob/master/Res/Где%20проявить%20и%20отсканить.md)**
-* **[Фотосервисы и мастерские (по городам)](https://github.com/zoixc/terem/blob/master/Res/Фотосервисы.md)**    
+* **[Где проявить и отсканить (по городам)](https://github.com/zoixc/terem/blob/master/Res/dev&scan.md)**
+* **[Фотосервисы и мастерские (по городам)](https://github.com/zoixc/terem/blob/master/Res/services.md)**    
 * **[Устройство и ремонт фотоаппаратов (литература)](https://github.com/zoixc/terem/blob/master/Res/Книги.md)**
 
 ***
 ### Куда выложить фото/где вдохновиться
-* **[Список пабликов и ресурсов](https://github.com/zoixc/terem/blob/master/Res/Ресурсы.md)**
+* **[Список пабликов и ресурсов](https://github.com/zoixc/terem/blob/master/Res/resources.md)**
 * В треде.
 ***
 ### Покупка
@@ -116,7 +116,7 @@
 * [Большой формат](https://t.me/large_format_ru) *со своей галереей и барахолкой*
 * [Про печать и химию](https://t.me/AF_Chemicals)
 ***
-[Архив (с треда #1 по текущий)](https://github.com/zoixc/terem/blob/master/Архив.md)
+[Архив (с треда #1 по текущий)](https://github.com/zoixc/terem/blob/master/archive.md)
 
 [Архив на Rentry (для доступа нужен VPN, заблокировано Роскомнадзором)](https://rentry.co/plenka_archive)
 ***
