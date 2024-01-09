@@ -74,7 +74,8 @@
 ### Проявка
 * С-41
     * ближайшая фотолаба
-    * по инструкции — [istillshootfilm.org](<http://istillshootfilm.org/post/522283334/how-to-develop-color-film-at-home-c-41>)
+    * по инструкции — [lomography.com](<https://www.lomography.com/magazine/212875-tsvet-doma>)
+    * еще — [lexa.ru](<https://www.lexa.ru/articles/home-c41.html>)
 * E-6
     * проф. лаба
     * по инструкции — [1greywind.livejournal.com](<https://1greywind.livejournal.com/458524.html>)
