@@ -51,15 +51,15 @@
 * Тред #47 https://arhivach.top/thread/411170/
 * Тред #48 https://arhivach.top/thread/435761/
 * Тред #49 https://arhivach.top/thread/435762/
-* Тред #50 [>>605863](https://2ch.hk/p/res/605863.html) | https://arhivach.top/thread/435763/
-* Тред #51 [>>609679](https://2ch.hk/p/res/609679.html) | https://arhivach.top/thread/440596/
-* Тред #52 [>>612827](https://2ch.hk/p/res/612827.html) | https://arhivach.top/thread/448293/
-* Тред #53 [>>616792](https://2ch.hk/p/res/616792.html) | https://arhivach.top/thread/460939/
-* Тред #54 [>>622865](https://2ch.hk/p/res/622865.html) | https://arhivach.top/thread/468478/
-* Тред #55 [>>627878](https://2ch.hk/p/res/627878.html) | https://arhivach.top/thread/480739/
-* Тред #56 [>>633115](https://2ch.hk/p/res/633115.html) | https://arhivach.top/thread/495506/
-* Тред #57 [>>638095](https://2ch.hk/p/res/638095.html) | https://arhivach.top/thread/531640/
-* Тред #58 [>>642160](https://2ch.hk/p/res/642160.html) | https://arhivach.top/thread/547866/
+* Тред #50 [>>605863](https://2ch.hk/p/res/605863.html) | <https://arhivach.top/thread/435763/>
+* Тред #51 [>>609679](https://2ch.hk/p/res/609679.html) | <https://arhivach.top/thread/440596/>
+* Тред #52 [>>612827](https://2ch.hk/p/res/612827.html) | <https://arhivach.top/thread/448293/>
+* Тред #53 [>>616792](https://2ch.hk/p/res/616792.html) | <https://arhivach.top/thread/460939/>
+* Тред #54 [>>622865](https://2ch.hk/p/res/622865.html) | <https://arhivach.top/thread/468478/>
+* Тред #55 [>>627878](https://2ch.hk/p/res/627878.html) | <https://arhivach.top/thread/480739/>
+* Тред #56 [>>633115](https://2ch.hk/p/res/633115.html) | <https://arhivach.top/thread/495506/>
+* Тред #57 [>>638095](https://2ch.hk/p/res/638095.html) | <https://arhivach.top/thread/531640/>
+* Тред #58 [>>642160](https://2ch.hk/p/res/642160.html) | <https://arhivach.top/thread/547866/>
 * Тред #59 [>>644865](https://2ch.hk/p/res/644865.html)
 * Тред #60 [>>647753](https://2ch.hk/p/res/647753.html)
 * Тред #61 [>>650053](https://2ch.hk/p/res/650053.html)
@@ -111,12 +111,13 @@
 * Тред #107 [>>804782](https://2ch.hk/p/res/804782.html) | <https://arhivach.top/thread/859475/>
 * Тред #108 [>>807911](https://2ch.hk/p/res/807911.html) | <https://arhivach.top/thread/871772/>
 * Тред #109 [>>812429](https://2ch.hk/p/res/812429.html) | <https://arhivach.top/thread/878476/>
-* Тред #110 [>>815899](https://2ch.hk/p/res/815899.html) | https://arhivach.top/thread/883860/
-* Тред #111 [>>819396](https://2ch.hk/p/res/819396.html) | https://arhivach.top/thread/895269/
-* Тред #112 [>>824053](https://2ch.hk/p/res/824053.html) | https://arhivach.top/thread/898594/
-* Тред #113 [>>826542](https://2ch.hk/p/res/826542.html) | https://arhivach.top/thread/905388/
+* Тред #110 [>>815899](https://2ch.hk/p/res/815899.html) | <https://arhivach.top/thread/883860/>
+* Тред #111 [>>819396](https://2ch.hk/p/res/819396.html) | <https://arhivach.top/thread/895269/>
+* Тред #112 [>>824053](https://2ch.hk/p/res/824053.html) | <https://arhivach.top/thread/898594/>
+* Тред #113 [>>826542](https://2ch.hk/p/res/826542.html) | <https://arhivach.top/thread/905388/>
 * Тред #114 [>>828476](https://2ch.hk/p/res/828476.html) | <https://arhivach.top/thread/906965/>
 * Тред #115 [>>832191](https://2ch.hk/p/res/832191.html) | <https://arhivach.top/thread/923268/>
 * Тред #116 [>>836151](https://2ch.hk/p/res/836151.html) | <https://arhivach.top/thread/937088/>
 * Тред #117 [>>839578](https://2ch.hk/p/res/839578.html) | <https://arhivach.top/thread/952196/>
+* Тред #118 [>>844458](https://2ch.hk/p/res/844458.html) | <https://arhivach.top/thread/982843/>
 </details>
