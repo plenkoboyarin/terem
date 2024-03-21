@@ -121,4 +121,5 @@
 * Тред #117 [>>839578](https://2ch.hk/p/res/839578.html) | <https://arhivach.top/thread/952196/>
 * Тред #118 [>>844458](https://2ch.hk/p/res/844458.html) | <https://arhivach.top/thread/982843/>
 * Тред #119 [>>848571](https://2ch.hk/p/res/848571.html) | <https://arhivach.top/thread/984007/>
+* Тред #120 [>>852102](https://2ch.hk/p/res/852102.html) | <https://arhivach.top/thread/997804/>
 </details>
